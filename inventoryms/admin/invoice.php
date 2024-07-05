@@ -68,9 +68,6 @@ function print1(strid) {
 }
 </script>
 
-
-
-
 <style>
 
     /* Header styles with advanced gradient and subtle animation */
